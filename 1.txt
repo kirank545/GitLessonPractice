@@ -1,1 +1,2 @@
 Hi,This is the 2nd class of Git
+This is the 3rd class of the Git conducted on 12-06-202
